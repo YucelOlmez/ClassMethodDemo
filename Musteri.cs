@@ -12,11 +12,8 @@ namespace ClassMethodDemo
         public string tc { get; set; }
         public string adi { get; set; }
         public string soyadi { get; set; }
-        public string dogumTarihi { get; set; }
-        public int yas { get; set; }
-        public string dogumYeri { get; set; }
+        public byte yas { get; set; }
 
-
-
+      
     }
 }
